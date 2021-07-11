@@ -21,7 +21,7 @@
   "author": "Tobias Klein",
   "license": "GPL-2.0+",
   "dependencies": {
-    "node-addon-api": "^3.2.0"
+    "node-addon-api": "^4.0.0"
   },
   "repository": {
     "type": "git",
